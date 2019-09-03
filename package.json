@@ -1,0 +1,7 @@
+{
+  "name": "steve/slack-poll",
+  "author": "steve",
+  "dependencies": {
+    "lib": "latest"
+  }
+}
