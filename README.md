@@ -10,7 +10,7 @@ You can deploy this Slack App to [Standard Library](https://stdlib.com) by click
 
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
 
-Before you can deploy the app, you need to link you Airtable, GitHub and Slack accounts.
+Before you can deploy the app, you need to link your Airtable and Slack accounts.
 
 ### Airtable
 
