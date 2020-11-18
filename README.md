@@ -7,8 +7,9 @@ on [Standard Library](https://stdlib.com), that lets you create polls in Slack w
 ## Deploying this Application
 
 You can deploy this Slack App to [Standard Library](https://stdlib.com) by clicking this button:
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+//[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
 
 Before you can deploy the app, you need to link your Airtable and Slack accounts.
 
